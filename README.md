@@ -10,7 +10,7 @@
 
 # ABOUT ME 👋🏻 :
 
-### - I'm a 24 years old Full Stack programmer from Uruguay 🇺🇾!
+### - I'm a 26 years old Full Stack programmer from Uruguay 🇺🇾!
 
 <img heght="500" width="auto" alt="GIF" align="right" src="https://raw.githubusercontent.com/joaquinzxy/joaquinzxy/main/media/parkour.gif">
 
